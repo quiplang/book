@@ -1,0 +1,4 @@
+[book]
+title = "The Quip Programming Language"
+src = "src"
+authors = ["Oskar Strzelecki"]
